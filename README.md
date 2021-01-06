@@ -1,8 +1,7 @@
-# Projeto Simples Utilizando a Arquitetura DDD
+# Projeto com Arquitetura DDD
 
-Este é um pequeno projeto criado em MVC 5 Utilizando a arquitetura DDD.
-Este projeto simples é só um Start, para aprofundarmos em DDD.
-O intuito desta aplicação é só apresentar os conceitos básicos e a estrutura do DDD.
+Este é um  projeto criado em MVC 5 Utilizando a arquitetura DDD.
+O Obejetico desta aplicação é  apresentar os conceitos básicos e a estrutura do DDD.
 
 Conteúdo Abordado:
 MVC 5, DDD, EF, AutoMapper e IOC.
